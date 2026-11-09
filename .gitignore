@@ -1,0 +1,8 @@
+.history/
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.production
+.DS_Store
